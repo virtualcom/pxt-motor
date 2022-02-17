@@ -1,7 +1,7 @@
 {
-    "name": "motor",
+    "name": "Motor shield",
     "version": "0.0.1",
-    "description": "This is dc motor, stepper motor, steering gear library.",
+    "description": "Dit is een motor shield.",
     "license": "GNU",
     "dependencies": {
         "core": "*"
